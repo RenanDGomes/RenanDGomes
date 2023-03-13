@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on **NPI - Unifil**
 
-- 🔭 I’m currently working on **FitBox**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
