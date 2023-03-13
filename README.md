@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Renan Gomes</h1>
 <h3 align="center">Esse GitHub é para estudos, projetos e trabalhos!!</h3>
 
-- 🔭 I’m currently working on **NPI - Unifil**
 
 
 <h3 align="left">Connect with me:</h3>
