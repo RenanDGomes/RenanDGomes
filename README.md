@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Renan Gomes</h1>
 <h3 align="center">Esse GitHub é para estudos, projetos e trabalhos!!</h3>
 
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/renan-delalibera-gomes-6295ab217" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/renan-delalibera-gomes-6295ab217" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <a href="https://instagram.com/r.gom3sss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r.gom3sss" height="30" width="40" /></a>
 </p>
 
